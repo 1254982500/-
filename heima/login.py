@@ -1,3 +1,4 @@
-number = 10
-number = 20
-number = 30
+number1 = 10
+number2 = 20
+number3 = 30
+number5 = 50
